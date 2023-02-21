@@ -1,4 +1,4 @@
-﻿/*  RetroArch - A frontend for libretro.
+/*  RetroArch - A frontend for libretro.
  *  Copyright (C) 2011-2017 - Daniel De Matteis
  *
  *  RetroArch is free software: you can redistribute it and/or modify it under the terms
@@ -351,11 +351,11 @@ int msg_hash_get_help_cht_enum(enum msg_hash_enums msg, char *s, size_t len)
          break;
       case MENU_ENUM_LABEL_CHECK_FOR_MISSING_FIRMWARE:
          snprintf(s, len,
-               "有些模懝器核心需要 \n"
+               "有些模擬器核心需要 \n"
                "firmware 或 bios 檔. \n"
                " \n"
                "如果這個選項取消, \n"
-               "模懝器將會嘗試執行 \n"
+               "模擬器將會嘗試執行 \n"
                "甚至 firmware 不存在也無彷. \n"
                ". \n");
          break;
