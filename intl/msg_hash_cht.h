@@ -115,7 +115,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_SUBLABEL_ADD_CONTENT_LIST,
-   "掃描內容並創建及更新遊戲列表"
+   "掃瞄內容並創建及更新遊戲列表"
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_SHOW_WIMP,
@@ -127,7 +127,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_MENU_DISABLE_KIOSK_MODE,
-   "關閉展示亭模式 (需重啓)"
+   "關閉展示亭模式 (需重啟)"
    )
 MSG_HASH(
    MENU_ENUM_SUBLABEL_MENU_DISABLE_KIOSK_MODE,
@@ -252,7 +252,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_SUBLABEL_GOTO_FAVORITES,
-   "加到“我的最愛”的內容將在此顯示"
+   "加到「我的最愛」的內容將在此顯示"
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_GOTO_MUSIC,
@@ -311,7 +311,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_THUMBNAILS_UPDATER_LIST,
-   "預覽缩图 更新器"
+   "預覽縮圖 更新器"
    )
 MSG_HASH(
    MENU_ENUM_SUBLABEL_THUMBNAILS_UPDATER_LIST,
@@ -323,7 +323,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_SUBLABEL_PL_THUMBNAILS_UPDATER_LIST,
-   "下載指定目錄中所有項目的預覽缩图"
+   "下載指定目錄中所有項目的預覽縮圖"
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_DOWNLOAD_CORE_CONTENT,
@@ -513,7 +513,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_SUBLABEL_CORE_CREATE_BACKUP,
-   "爲目前已安裝的模擬核心建立存檔備份"
+   "為目前已安裝的模擬核心建立存檔備份"
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_CORE_RESTORE_BACKUP_LIST,
@@ -1050,7 +1050,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_SUBLABEL_LATENCY_SETTINGS,
-   "更改影像、聲音、和输入的延遲設定。"
+   "更改影像、聲音、和輸入的延遲設定。"
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_CORE_SETTINGS,
@@ -2627,7 +2627,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_VIDEO_POST_FILTER_RECORD,
-   "啟用錄影後期濾鏡"
+   "啟用錄影后期濾鏡"
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_VIDEO_GPU_RECORD,
@@ -3268,15 +3268,15 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_MANUAL_CONTENT_SCAN_SEARCH_RECURSIVELY,
-   "遞迴掃描"
+   "遞迴掃瞄"
    )
 MSG_HASH(
    MENU_ENUM_SUBLABEL_MANUAL_CONTENT_SCAN_SEARCH_RECURSIVELY,
-   "當啟用後，指定的“Rom目錄”內的所有子目錄將包含在掃描中。"
+   "當啟用後，指定的「Rom目錄」內的所有子目錄將包含在掃瞄中。"
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_MANUAL_CONTENT_SCAN_START,
-   "開始掃描"
+   "開始掃瞄"
    )
 
 /* Explore tab */
@@ -5002,7 +5002,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MSG_SCANNING_CORES,
-   "正在掃描核心..."
+   "正在掃瞄核心..."
    )
 MSG_HASH(
    MSG_CHECKING_CORE,
@@ -5198,7 +5198,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MSG_FAILED_TO_ALLOCATE_MEMORY_FOR_PATCHED_CONTENT,
-   "無法配置記憶體給已俢改的遊戲"
+   "無法配置記憶體給已修改的遊戲"
    )
 MSG_HASH(
    MSG_FAILED_TO_APPLY_SHADER,
@@ -5702,7 +5702,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MSG_BLUETOOTH_SCAN_COMPLETE,
-   "藍牙掃描完成"
+   "藍牙掃瞄完成"
    )
 MSG_HASH(
    MSG_WIFI_SCAN_COMPLETE,
@@ -5710,7 +5710,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MSG_SCANNING_BLUETOOTH_DEVICES,
-   "正在掃描藍牙裝置..."
+   "正在掃瞄藍牙裝置..."
    )
 MSG_HASH(
    MSG_SCANNING_WIRELESS_NETWORKS,
@@ -5722,7 +5722,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MSG_PREPARING_FOR_CONTENT_SCAN,
-   "正準備掃描內容..."
+   "正準備掃瞄內容..."
    )
 MSG_HASH(
    MSG_INPUT_ENABLE_SETTINGS_PASSWORD,
@@ -5786,7 +5786,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MSG_MANUAL_CONTENT_SCAN_START,
-   "正在掃描遊戲內容: "
+   "正在掃瞄遊戲內容: "
    )
 MSG_HASH(
    MSG_MANUAL_CONTENT_SCAN_IN_PROGRESS,
@@ -5794,11 +5794,11 @@ MSG_HASH(
    )
 MSG_HASH(
    MSG_MANUAL_CONTENT_SCAN_END,
-   "掃描完成: "
+   "掃瞄完成: "
    )
 MSG_HASH(
    MSG_CORE_BACKUP_SCANNING_CORE,
-   "正在掃描核心: "
+   "正在掃瞄核心: "
    )
 MSG_HASH(
    MSG_PRUNING_CORE_BACKUP_HISTORY,
